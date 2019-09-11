@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "996356518825",
+    "firebase_url": "https://seecowapp.firebaseio.com",
+    "project_id": "seecowapp",
+    "storage_bucket": "seecowapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996356518825:android:b75c265410c2f9da",
+        "android_client_info": {
+          "package_name": "com.example.faruq.seecowapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996356518825-n6cujq724cokh1jv9fartdf88u5802j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faruq.seecowapp",
+            "certificate_hash": "d2dba41ca77f5bbeb96615a94393dfc403f4ab49"
+          }
+        },
+        {
+          "client_id": "996356518825-sh6cnmobja7clqf0l6dpji8j22kibbq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcJY3C7Bzhek06NQEyX_PzfavbvjPDIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996356518825-sh6cnmobja7clqf0l6dpji8j22kibbq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
